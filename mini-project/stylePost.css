@@ -1,0 +1,37 @@
+body{
+    background: silver;
+}
+
+.divAllComments {
+    display: flex;
+
+}
+
+.divCommentStyle{
+    margin: 10px;
+    box-sizing: border-box;
+    background: tan;
+    border: 3px solid #1f1f1f;
+    border-radius: 10px;
+    width: 100%;
+    padding: 20px;
+}
+
+.divAllInfoComment{
+    box-sizing: border-box;
+    text-align: center;
+    display: block;
+    background: antiquewhite;
+    font-size: 20px;
+    border: 3px solid #1f1f1f;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+
+.divBr{
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 15px;
+}

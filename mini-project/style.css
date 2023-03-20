@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    background: silver;
+
+}
+
+.nameH1 {
+    text-transform: uppercase;
+    width: 50%;
+    text-align: center;
+    background: antiquewhite;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.mainDivhtml {
+    margin: 10px;
+    display: flex;
+}
+
+.mainDiv{
+    /*border: 2px solid black;*/
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.divUser {
+    margin-top: 20px;
+    padding-top: 40px;
+    background: tan;
+    display: block;
+    width: 50%;
+    height: 100px;
+    text-align: center;
+    font-size: 20px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+
+.divUser:hover{
+    background: darkslategray;
+    transition: 0.5s;
+    text-decoration: underline;
+
+
+
+}
+
+.aStyle{
+    color: black;
+    text-decoration: none;
+}
+
